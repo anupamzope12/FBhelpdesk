@@ -1,0 +1,69 @@
+body{
+    font-family: Roboto, Arial;
+    background-color: rgb(29, 29, 147);
+    margin: 0; /* Reset default margin */
+    height: 100vh; /* Ensure body fills the viewport */
+    display: flex; /* Use flexbox to center the container */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#main-box {
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 12px;
+    padding: 25px 50px;
+    width: 280px;
+}
+
+#inputbox{
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0.269) ;
+    background-color: white;
+    padding-left: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 250px;
+}
+
+#text{
+    /* font: bold; */
+    font-family: Roboto, Arial;
+    font-size: 12px;
+    font-weight: 558;
+}
+
+#text1{
+    font-family: Roboto, Arial;
+    font-size: 18px;
+    font-weight: 550;
+   
+}
+
+#text11,#footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#signup{
+    background-color: rgb(29, 29, 147);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 275px;
+    border-radius: 5px;
+    font-family: Roboto, Arial;
+    font-size: 18px;
+    /* color: white; */
+    color: white;
+}
+
+#login{
+    color: rgb(29, 29, 147);
+}
