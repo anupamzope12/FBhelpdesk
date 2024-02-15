@@ -1,16 +1,26 @@
 # FBhelpdesk
 <br>
-FBhelpdesk is POC (Proof of Concept) app. This app will allow clients to connect their fb accounts, listen to their messenger messages, and reply to them within the application.
-
-<h5>To install </h5>
+FBhelpdesk is POC (Proof of Concept) app. 
+<br>
+This app will allow clients to connect their fb accounts, listen to their messenger messages, and reply to them within the application.
+<br>
+<h2>To install </h2>
 Clone the Git Repository
+<br>
 For Backend
-open the backend folder in commandline => npm install
-node server.js
-
-For Frontend
-open the frontend folder in commandline =>
+<br>
+open the backend folder in commandline => 
+<br>
 npm install
+<br>
+node server.js
+<br>
+For Frontend
+<br>
+open the frontend folder in commandline =>
+<br>
+npm install
+<br>
 npm run dev
 
 
