@@ -1,6 +1,7 @@
 # FBhelpdesk
 <br>
 FBhelpdesk is POC (Proof of Concept) app. 
+FullStack App having backend in NodeJs, Frontend in ReactJs and for database MySQL
 <br>
 This app will allow clients to connect their fb accounts, listen to their messenger messages, and reply to them within the application.
 <br>
